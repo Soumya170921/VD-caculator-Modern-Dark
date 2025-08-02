@@ -1,4 +1,4 @@
-# 🧛‍♀️ Vampire Diaries Themed Calculator
+# 🧛‍♀️ VD Themed Calculator
 
 A modern, dark-themed calculator , built using **HTML, CSS, JavaScript**, and connected to a **MySQL database** for storing calculation logs. Complete with custom UI, background music.
 
